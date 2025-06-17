@@ -1,0 +1,2 @@
+C:\Users\a\Desktop\ultralytics-main (1)\datasets_cups\images\train\IMG_20250613_142339_1.jpg
+C:\Users\a\Desktop\ultralytics-main (1)\datasets_cups\images\train\IMG_20250613_142405.jpg

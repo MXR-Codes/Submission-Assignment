@@ -1,0 +1,8 @@
+path: C:\Users\a\Desktop\ultralytics-main (1)\datasets_cups
+train: train.txt
+val: val.txt
+test: test.txt
+
+names:
+  cups
+
